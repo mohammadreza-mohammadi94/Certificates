@@ -1,4 +1,4 @@
-## Courses and Certificates
+## Courses and Certificates >📜
 This repository contains a list of the courses that I have passed and their certificates.
 
 ### Courses
